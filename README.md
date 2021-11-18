@@ -1,0 +1,2 @@
+# DATA-ANALYSIS-USING-PANDAS
+Performs different types of operations on different data sets like creating , reading, writing, indexing, selecting, assigning, summary functions, maps, grouping , sorting, data types, missing values, renaming and combining. Importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning and Data Presentation.
